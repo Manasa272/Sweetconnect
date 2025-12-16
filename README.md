@@ -91,6 +91,6 @@ AI tools that supported ideation and design
 
 📬 Author
 
-Developed by a Magic Bus trainee as part of the final mini project.
+Developed by  Me & a Magic Bus trainee as part of the final mini project.
 
 ⭐ Thank you Magic Bus for the learning opportunity!
